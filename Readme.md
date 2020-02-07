@@ -5,7 +5,7 @@ It took me the whole 5 hours, but I had to download the specific Unity version, 
 
 The parts that were difficult for you and why?
 
-I like spending time to organize my code a bit better, but 5 hours just isnt enough time for that.
+I would have like to add an AI character to race against and I like spending time to organize my code a bit better, but 5 hours just wasn't enough time for that.
 
 The parts you think you could do better and how?
 

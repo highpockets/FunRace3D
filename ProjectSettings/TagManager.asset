@@ -3,7 +3,14 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - BoxingWall
+  - BoxingBox
+  - FlyingFox
+  - FlyingFoxStart
+  - FlyingFoxEnd
+  - finishFloor
+  - dieZone
   layers:
   - Default
   - TransparentFX

@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{74FBA0E8-BC75-39CB-1E22-F10AE26E08B8}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Alert.cs">
+    <Files>
+      <File FileName="Assets/Scripts/PlayerMovement.cs" Line="71" Column="5" />
+      <File FileName="Assets/Scripts/CamFollow.cs" Line="27" Column="6" />
+      <File FileName="Assets/Scripts/Punch.cs" Line="35" Column="33" />
+      <File FileName="Assets/Scripts/Spinner.cs" Line="17" Column="9" />
+      <File FileName="Assets/Scripts/Alert.cs" Line="7" Column="5" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
